@@ -33,4 +33,4 @@
 | ... | - | - |
 
 <!-- Aquí vincular con el boceto de UI asociado a este caso de uso -->
-![Boceto UI](img/ejemplo.png)
+![Boceto UI](ejemplo.png)
